@@ -6,7 +6,7 @@
   "license": "MIT",
   "dependencies": {
     "node-fetch": "^2.3.0",
-    "preact": "^8.3.1",
+    "preact": "^8.5.3",
     "preact-render-to-string": "^4.1.0"
   }
 }
